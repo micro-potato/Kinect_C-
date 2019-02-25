@@ -1,0 +1,16 @@
+E:\iwinad\project\2018\AI体验提升\Main\MainApp\Utils\bin\Debug\Utils.dll
+E:\iwinad\project\2018\AI体验提升\Main\MainApp\Utils\bin\Debug\Utils.pdb
+E:\iwinad\project\2018\AI体验提升\Main\MainApp\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\iwinad\project\2018\AI体验提升\Main\MainApp\Utils\obj\Debug\Utils.dll
+E:\iwinad\project\2018\AI体验提升\Main\MainApp\Utils\obj\Debug\Utils.pdb
+E:\iwinad\project\2018\AI业务体验\程序\Main\Utils\bin\Debug\Utils.dll
+E:\iwinad\project\2018\AI业务体验\程序\Main\Utils\bin\Debug\Utils.pdb
+E:\iwinad\project\2018\AI业务体验\程序\Main\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\iwinad\project\2018\AI业务体验\程序\Main\Utils\obj\Debug\Utils.dll
+E:\iwinad\project\2018\AI业务体验\程序\Main\Utils\obj\Debug\Utils.pdb
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\bin\Debug\Utils.dll
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\bin\Debug\Utils.pdb
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\Debug\Utils.dll
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\Debug\Utils.pdb
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\Debug\Utils.csprojAssemblyReference.cache

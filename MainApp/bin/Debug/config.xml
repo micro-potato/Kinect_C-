@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+  <ComPort>COM6</ComPort>
+  <BundRate>9600</BundRate>
+  <Point1>II(00,000010)E</Point1>
+  <Point2>II(00,000001)E</Point2>
+  <Point3>II(00,000100)E</Point3>
+  <PointLeave>II(00,000000)E</PointLeave>
+  
+  <Port>8898</Port>
+</Data>

@@ -1,0 +1,5 @@
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\bin\x86\Debug\Utils.dll
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\bin\x86\Debug\Utils.pdb
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\x86\Debug\Utils.csproj.CoreCompileInputs.cache
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\x86\Debug\Utils.dll
+E:\iwinad\project\2018\丝路文化_杜佳耐\Source\C#\Utils\obj\x86\Debug\Utils.pdb
